@@ -1,0 +1,20 @@
+{
+    "Author": "Stas Kuvshinov",
+    "ContentSize": 43770,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/connect-to-azure-using-runas-account-(service-principal)/master/Connect-ToAzureUsingRunAsAccount.graphrunbook",
+    "DownloadCount": 2154,
+    "Id": "Connect-to-Azure-Using-87ff57a6",
+    "IsFederated": true,
+    "IsWorkflow": false,
+    "Popularity": 250,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2016-6-3T00:00:00",
+    "RunbookKind": 3,
+    "RunbookKindString": "Graphical Powershell",
+    "Summary": "This runbook shows how to authenticate to Azure with the Run As account.Use this runbook as the first building block for other runbooks managing your Azure resources!",
+    "Title": "Connect to Azure Using RunAs Account (Service Principal)",
+    "UpdatedDate": "2016-6-3T00:00:00",
+    "Url": "https://github.com/azureautomation/connect-to-azure-using-runas-account-(service-principal)",
+    "UserTags": "Microsoft Azure, RunAsAccount, GraphicalPS"
+}
